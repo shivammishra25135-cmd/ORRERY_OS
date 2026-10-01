@@ -1,0 +1,8 @@
+Reference/
+orrery_SAFE_BACKUP.html
+*.har
+*.mp4
+*.webm
+*.task
+*.wasm
+node_modules/
